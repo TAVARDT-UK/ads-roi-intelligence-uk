@@ -1,4 +1,4 @@
-# Paid Media ROI Intelligence and Mathematical Modeling | TAVARDT United Kingdom
+# Paid Media ROI Intelligence and Mathematical Modeling
 
 [![ROI Calculator](https://img.shields.io/badge/TAVARDT-ROI%20Calculator-5b3cf5.svg)](https://tools.tavardt.com/uk/paid-media-roi-calculator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -50,3 +50,7 @@ For advanced scenario modeling, graphical simulations, and budget sensitivity ch
 ## Revenue Engineering Consulting
 
 For corporate media spend optimization, econometric modeling, and high-ticket B2B scale in United Kingdom, contact **TAVARDT United Kingdom**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
