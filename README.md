@@ -1,19 +1,20 @@
-# Paid Media ROI Intelligence and Mathematical Modeling
+# Paid Media ROI Intelligence and Mathematical Modelling
 
 [![ROI Calculator](https://img.shields.io/badge/TAVARDT-ROI%20Calculator-5b3cf5.svg)](https://tools.tavardt.com/uk/paid-media-roi-calculator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Mathematical modeling utility for ROAS, ROI, and diminishing returns budget scaling projections across enterprise performance media.
+Mathematical modelling utility for ROAS, ROI, and diminishing returns budget scaling projections across enterprise performance media.
 
 Developed and maintained by the revenue engineering and paid performance division of **TAVARDT United Kingdom**.
 
 ***
 
-## Mathematical Modeling and Core Metrics
+## Mathematical Modelling and Core Metrics
 
 * **Base ROAS**: Direct ratio between gross generated revenue and paid media expenditure.
 * **Base ROI**: Net percentage return on capital allocated to paid advertising.
-* **Scale Forecasting with Diminishing Returns**: Algorithmic decay modeling (standard coefficient 0.85) projecting marginal efficiency and performance degradation as budgets scale.
+* **Scale Forecasting with Diminishing Returns**: Algorithmic decay modelling (standard coefficient 0.85) projecting marginal efficiency and performance degradation as budgets scale.
 * **Structured Output Formats**: Terminal table output or JSON payloads ready for ingestion into analytics pipelines.
 
 ***
@@ -40,7 +41,7 @@ Also includes the Node.js and browser-compatible JavaScript utility in `calculat
 
 ## Interactive Web Calculator
 
-For advanced scenario modeling, graphical simulations, and budget sensitivity charts, access the official web diagnostic suite:
+For advanced scenario modelling, graphical simulations, and budget sensitivity charts, access the official web diagnostic suite:
 
 * **Paid Media ROI and Scale Calculator**
 * **TAVARDT United Kingdom Corporate Portal**
@@ -49,7 +50,21 @@ For advanced scenario modeling, graphical simulations, and budget sensitivity ch
 
 ## Revenue Engineering Consulting
 
-For corporate media spend optimization, econometric modeling, and high-ticket B2B scale in United Kingdom, contact **TAVARDT United Kingdom**.
+For corporate media spend optimisation, econometric modelling, and high-ticket B2B scale in the United Kingdom, contact **TAVARDT United Kingdom**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
