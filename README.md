@@ -1,12 +1,10 @@
 # Paid Media ROI Intelligence and Mathematical Modelling
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![ROI Calculator](https://img.shields.io/badge/TAVARDT-ROI%20Calculator-5b3cf5.svg)](https://tools.tavardt.com/uk/paid-media-roi-calculator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Mathematical modelling utility for ROAS, ROI, and diminishing returns budget scaling projections across enterprise performance media.
-
-Developed and maintained by the revenue engineering and paid performance division of **TAVARDT United Kingdom**.
 
 ***
 
@@ -39,15 +37,6 @@ Also includes the Node.js and browser-compatible JavaScript utility in `calculat
 
 ***
 
-## Interactive Web Calculator
-
-For advanced scenario modelling, graphical simulations, and budget sensitivity charts, access the official web diagnostic suite:
-
-* **Paid Media ROI and Scale Calculator**
-* **TAVARDT United Kingdom Corporate Portal**
-
-***
-
 ## Revenue Engineering Consulting
 
 For corporate media spend optimisation, econometric modelling, and high-ticket B2B scale in the United Kingdom, contact **TAVARDT United Kingdom**.
@@ -63,7 +52,7 @@ For corporate media spend optimisation, econometric modelling, and high-ticket B
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
