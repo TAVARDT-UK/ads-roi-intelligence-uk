@@ -1,8 +1,8 @@
 # Paid Media ROI Intelligence and Mathematical Modelling
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![ROI Calculator](https://img.shields.io/badge/TAVARDT-ROI%20Calculator-5b3cf5.svg)](https://tools.tavardt.com/uk/paid-media-roi-calculator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Mathematical modelling utility for ROAS, ROI, and diminishing returns budget scaling projections across enterprise performance media.
 
